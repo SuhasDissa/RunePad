@@ -1,0 +1,3 @@
+A Character pad for Science students.
+Contains most of the Maths and Physics symbols.
+Contains different types of Arrow symbols used in Chemistry
